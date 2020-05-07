@@ -1,6 +1,6 @@
 {
-  "name": "cotton-candy-theme",
-  "displayName": "Cotton Candy",
+  "name": "sugar-rush-theme",
+  "displayName": "Sugar Rush",
   "description": "A saccharine theme that won't crush your hopes and dreams.",
   "version": "0.0.1",
   "author": {
@@ -8,13 +8,13 @@
     "name": "JasonIRL",
     "url": "https://twitter.com/Jason_IRL"
   },
-  "homepage": "https://github.com/JasonIRL/cotton-candy-theme",
+  "homepage": "https://github.com/JasonIRL/sugar-rush-theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JasonIRL/cotton-candy-theme.git"
+    "url": "https://github.com/JasonIRL/sugar-rush-theme.git"
   },
   "bugs": {
-    "url": "https://github.com/JasonIRL/cotton-candy-theme/issues"
+    "url": "https://github.com/JasonIRL/sugar-rush-theme/issues"
   },
   "licenses": [
     {
@@ -30,9 +30,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cotton Candy",
+        "label": "Sugar Rush (Cotton Candy)",
         "uiTheme": "vs",
-        "path": "./themes/Cotton Candy-color-theme.json"
+        "path": "./themes/sugar-rush-cotton-candy.json"
+      },
+      {
+        "label": "Sugar Rush (Hard Candy)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sugar-rush-hard-candy.json"
       }
     ]
   },
@@ -45,6 +50,7 @@
     "eslint": "^6.8.0",
     "eslint-plugin-json": "^2.1.1",
     "eslint-plugin-prettier": "^3.1.3",
-    "prettier": "2.0.5"
+    "prettier": "2.0.5",
+    "vsce": "^1.75.0"
   }
 }

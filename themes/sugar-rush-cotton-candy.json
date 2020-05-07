@@ -1,9 +1,9 @@
 {
-  "name": "Cotton Candy",
+  "name": "Sugar Rush (Cotton Candy)",
   "type": "light",
   "colors": {
     "editor.background": "#ffcbcb",
-    "editor.foreground": "#333333"
+    "editor.foreground": "#fff"
   },
   "tokenColors": [
     {

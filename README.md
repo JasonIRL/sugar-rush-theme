@@ -1,6 +1,6 @@
-# Cotton Candy Theme
+# Sugar Rush
 
-A saccharine theme that won't crush your hopes and dreams.
+_A saccharine theme that won't crush your **hopes** and **dreams**._
 
 <span align=center>
 
