@@ -2,7 +2,7 @@
   "name": "Cotton Candy",
   "type": "light",
   "colors": {
-    "editor.background": "#666",
+    "editor.background": "#ffcbcb",
     "editor.foreground": "#333333"
   },
   "tokenColors": [
