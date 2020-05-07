@@ -2,10 +2,12 @@
 
 A saccharine theme that won't crush your hopes and dreams.
 
-<p align=center>
-<span style="color:#ffcbcb">■</span>
-<span style="color:#ffa7a7">■</span>
-<span style="color:#c9fdff">■</span>
-<span style="color:#dffeff">■</span>
-<span style="color:#fff4f4">■</span>
-</p>
+<span align=center>
+
+![](https://via.placeholder.com/15/ffcbcb/000000?text=+)
+![](https://via.placeholder.com/15/ffa7a7/000000?text=+)
+![](https://via.placeholder.com/15/c9fdff/000000?text=+)
+![](https://via.placeholder.com/15/dffeff/000000?text=+)
+![](https://via.placeholder.com/15/fff4f4/000000?text=+)
+
+</span>
