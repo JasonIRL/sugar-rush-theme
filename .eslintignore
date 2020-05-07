@@ -1,0 +1,6 @@
+.github/*
+.vscode/*
+assets/*
+**/node_modules/*
+*.vsix
+!.eslintrc.js
